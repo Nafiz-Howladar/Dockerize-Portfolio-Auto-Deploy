@@ -92,7 +92,7 @@ export default function AboutSection() {
         </div>
 
         <div className="max-w-3xl mx-auto text-center border-l-4 border-black dark:border-white pl-6 py-4 italic">
-          <p className="text-xl">"Driven by passion, guided by purpose."</p>
+          <p className="text-xl">"Aspiring Devops Engineer"</p>
         </div>
       </div>
     </section>
