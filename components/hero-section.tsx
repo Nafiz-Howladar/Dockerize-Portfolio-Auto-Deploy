@@ -42,7 +42,7 @@ export default function HeroSection() {
           </div>
 
           <h1 className="text-4xl md:text-6xl font-bold mb-4">Nafiz Howladar</h1>
-          <p className="text-xl md:text-2xl mb-6">Web Developer | Digital Marketer | Founder of GENIX.IT</p>
+          <p className="text-xl md:text-2xl mb-6">Jr. Devops Engineer</p>
           <p className="max-w-2xl mx-auto text-lg mb-8">
             Computer Science student with a passion for web development, digital marketing, and startup building.
             Founder of GENIX.IT.
